@@ -99,10 +99,10 @@ Features:
 ### Software Developer — Hackathon Project
 - Built a full stack application using MERN
 ### Student Mentor — Coding Community
+---
 
-
-### 👨‍💻 Programming Languages And ⚙ Tools
-
+### 👨‍💻 Programming Languages And 
+### ⚙ Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
@@ -115,7 +115,7 @@ Features:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows" />
 </p>
-
+---
 ## 🤝 Let's Connect!
 
 I’m always interested in:
