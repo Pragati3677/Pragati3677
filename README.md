@@ -96,7 +96,7 @@ Features:
 
 ### 📊 Student Average Calculator
 
-Tech Stack: Java Swing, JDBC, MySQL
+Tech Stack: Java GUI , Java Swing , JDBC, MySQL
 
 Features:
 - Manage student marks
@@ -109,28 +109,28 @@ Features:
 
 ### Software Developer — Hackathon Project
 - Built a full stack application using MERN
-- 
 ### Student Mentor — Coding Community
 
-## Tech Stack
-## 👨‍💻 Programming Languages
+### Tech Stack
+### 👨‍💻 Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express" />
 </p>
 
-## 🗄 Databases
+### 🗄 Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+### ⚙ Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows" />
 </p>
@@ -153,10 +153,6 @@ I’m always interested in:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-20c997?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="mailto:pragatis0358@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -164,8 +160,7 @@ I’m always interested in:
 </p>
 
 ---
-
-“Code. Learn. Improve. Repeat.”
+"Turning ideas into code and code into solutions."
 
 ## 📊 GitHub Stats
 
@@ -188,5 +183,8 @@ I’m always interested in:
 </p>
 
 ---
+## 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati3677&theme=tokyo-night"/>
 
 
