@@ -32,10 +32,17 @@ Passionate about building real-world software solutions, learning modern technol
 - ## 🛠 Tech Stack
 
 ### 👩‍💻 Programming Languages
-Java • C • C++ • JavaScript • Python
+• Java,C,C++,JavaScript,Python
 
-### 🌐 Web Development
-HTML • CSS  • React.js • Node.js • Express.js 
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+• HTML 
+• CSS  
+• React.js 
+• Node.js 
+• Express.js 
 
 ### 🗄 Databases
 MongoDB • MySQL
