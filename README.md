@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋 I'm Pragati Shendage</h1>
-<h3 align="center">💻 B.Tech CSE Student | AI & MERN Stack Developer | Focused Developer </h3>
+<h3 align="center">💻 B.Tech CSE Student | AI & MERN | Focused Developer </h3>
 
 <p align="center">
 Passionate about building real-world software solutions, learning modern technologies, and solving complex problems using New technology's.
