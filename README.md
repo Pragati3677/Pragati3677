@@ -115,8 +115,10 @@ Features:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows" />
 </p>
+"Turning ideas into code and code into solutions."
 ---
-## 🤝 Let's Connect!
+
+### 🤝 Let's Connect!
 
 I’m always interested in:
 
@@ -141,7 +143,7 @@ I’m always interested in:
 </p>
 
 ---
-"Turning ideas into code and code into solutions."
+
 
 ## 📊 GitHub Stats
 
