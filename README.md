@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">💻 B.Tech CSE Student | MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
-Passionate about building real-world software solutions, learning modern technologies, and solving complex problems using code.
+Passionate about building real-world software solutions, learning modern technologies, and solving complex problems using New technology's.
 </p>
 
 ## 🚀 About Me
@@ -28,45 +28,34 @@ Passionate about building real-world software solutions, learning modern technol
 - 🌱 Currently learning **MERN Stack & AI Applications**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🔭 Building real-world projects.
-
-- ## 🛠 Tech Stack
-
+---
+## 🛠 Tech Stack
+---
 ### 👩‍💻 Programming Languages
-• Java 
-• C
-• C++ 
-• JavaScript 
-• Python
+- Java  
+- C  
+- C++  
+- JavaScript  
+- Python  
 
 ### 🌐 Frontend
-• HTML 
-• CSS  
-• Bootstrap 
-• React.js 
-• Node.js 
-• Express.js 
+- HTML  
+- CSS  
+- Bootstrap  
+- React.js  
+- Node.js  
+- Express.js  
 
-### ⚙️ Backend
-• Java
-• Node.js
-• Express.js
-
-### 🗄 Databases 
-• MySQL
-• MongoDB
-
-⚙ CS Fundamentals
-• Object-Oriented Programming (OOP)
-• Data Structures & Algorithms (DSA)
-• Computer Networks
+### 🗄 Databases
+- MySQL  
+- MongoDB  
 
 ### ⚙ Tools
-• Git 
-• GitHub 
-• VS Code 
-• Postman
-• Windows
-
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+- Windows
 ---
 
 ## 🚀 Projects
@@ -111,26 +100,18 @@ Features:
 - Built a full stack application using MERN
 ### Student Mentor — Coding Community
 
-### Tech Stack
-### 👨‍💻 Programming Languages
+
+### 👨‍💻 Programming Languages And ⚙ Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
-
-### 🌐 Web Development
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express" />
 </p>
-
-### 🗄 Databases
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
-
-### ⚙ Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows" />
 </p>
@@ -149,7 +130,7 @@ I’m always interested in:
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/pragati-shendage-a7a143294/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
