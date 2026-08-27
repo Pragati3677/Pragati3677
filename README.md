@@ -141,6 +141,10 @@ I’m always interested in:
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/pragati_shendage/">
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+</a>
+
 </p>
 
 ---
